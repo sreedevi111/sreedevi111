@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Sreedevi.
+- 📫 How to reach me: sreedevisobhana@gmail.com
 
 <!--
 **sreedevi111/sreedevi111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sreedevi111.visitor-badge)
+
 [![Sreedevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreedevi111&count_private=true&show_icons=true&theme=radical)](https://github.com/sreedevi111/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi111&layout=compact)](https://github.com/sreedevi111/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sreedevi111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sreedevi111.visitor-badge)
