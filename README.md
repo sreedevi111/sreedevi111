@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Sreedevi.
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sreedevi111.visitor-badge&left_text=MyPageVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sreedevi111.visitor-badge&left_color=red&right_color=green) 
 <!-- - 📫 How to reach me: sreedevisobhana@gmail.com -->
 
 
