@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Sreedevi.
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sreedevi111.visitor-badge&left_color=red&right_color=green) 
+![Profile View Counter](https://komarev.com/ghpvc/?username=sreedevi111)
+
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sreedevi111.visitor-badge&left_color=red&right_color=green)  -->
 <!-- - 📫 How to reach me: sreedevisobhana@gmail.com -->
 
 
