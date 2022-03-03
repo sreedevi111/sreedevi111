@@ -3,13 +3,13 @@
 <!-- - 📫 How to reach me: sreedevisobhana@gmail.com -->
 
 
-###🤝 Connect with me:
+### 🤝 Connect with me:
 
 
   <a href="https://www.linkedin.com/in/sreedevi-s-97b502176/"><img align="left" src="https://raw.githubusercontent.com/sreedevi111/sreedevi111/main/linkedin.png" alt="Sreedevi | LinkedIn" width="21px"/></a>
 <a href="https://https://twitter.com/sreedevi3009"><img align="left" src="https://raw.githubusercontent.com/sreedevi111/sreedevi111/main/twitter.png" alt="Sreedevi | Twitter" width="21px"/></a>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 sreedevisobhana@gmail.com
 
 
