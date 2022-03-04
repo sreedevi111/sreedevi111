@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [//]: # ([![Sreedevi's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=sreedevi111&count_private=true&show_icons=true&theme=gradient&#41;]&#40;https://github.com/sreedevi111/github-readme-stats&#41;)
 [![Sreedevi's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/sreedevi111?cardType=github&theme=github&Text=010215&Background=FDFFFC&Title=1F0315&Border=140FDD)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi111&layout=compact)](https://github.com/sreedevi111/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi111&layout=compact&line_height=11)](https://github.com/sreedevi111/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sreedevi111&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
